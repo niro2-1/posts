@@ -1,0 +1,12 @@
+<feed>
+  <title>Your Feed Title</title>
+  <link href="http://example.com" rel="self" />
+  <updated>2023-10-01T00:00:00Z</updated>
+  <entry>
+    <title>Entry Title</title>
+    <link href="http://example.com/entry" />
+    <id>http://example.com/entry</id>
+    <updated>2023-10-01T00:00:00Z</updated>
+    <summary>Brief description of the entry.</summary>
+  </entry>
+</feed>
